@@ -377,6 +377,7 @@ ul.list-check li::before {
     color: white;
     display: flex;
     justify-content: center;
+    font-size: larger;
 }
 
 /*
