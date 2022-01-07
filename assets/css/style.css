@@ -352,7 +352,7 @@ ul.list-check li::before {
 .intro h1{
 	font-size: 60px;
 	line-height: 80px;
-	margin-bottom: 16px;
+	margin-bottom: 6px;
 	color: #52b3d9;
 }
 .intro h1 span{
@@ -371,6 +371,12 @@ ul.list-check li::before {
 	text-transform: uppercase;
 	display: block;
 	margin-bottom: 20px;
+}
+
+.intro-quote {
+    color: white;
+    display: flex;
+    justify-content: center;
 }
 
 /*
