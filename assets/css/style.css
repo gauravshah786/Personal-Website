@@ -769,6 +769,7 @@ Resume Timeline
 .timeline-heading h3 {
     font-size: 16px;
     line-height: 28px;
+    text-transform: none;
 }
 .timeline-heading span{
     display: block;
@@ -933,7 +934,7 @@ Resume Timeline
     font-size: 18px;
     font-weight: 400;
     margin-top: -6px;
-    text-transform: capitalize;
+    text-transform: none;
 }
 
 
